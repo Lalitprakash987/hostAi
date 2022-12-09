@@ -4,7 +4,7 @@ public class try_catch_chitransh {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		try{
-			System.out.println("Enter the value1");
+			System.out.println("Enter the value");
 		
 		Scanner sc=new Scanner(System.in);
 		int i =sc.nextInt();
